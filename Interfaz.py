@@ -1,8 +1,5 @@
 import tkinter as tk
-from Class_interpolacion import VentanaInterpolacion
-from Class_integral import VentanaIntegrales
 from Class_regresion import Regresion
-from Class_Ecua import Ecuaciones
 from tkinter.messagebox import *
 
 icono = "Src/Icono.ico"
