@@ -1,9 +1,7 @@
-from msilib.schema import Icon
 from tkinter import *
 import tkinter as tk
 from tkinter import filedialog
 import tkinter.font as TkFont
-from PIL import ImageTk, Image
 from tkinter import ttk
 from sympy import *
 import numpy as np
